@@ -1,4 +1,4 @@
-# Active Directory Homelab — Domain Controller & User Management
+# Active Directory Homelab, Domain Controller & User Management
 
 **Platform:** AWS EC2 · Windows Server 2022 · Active Directory · PowerShell  
 **Year:** 2026  
