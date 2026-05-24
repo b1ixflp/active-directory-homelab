@@ -67,7 +67,7 @@ foreach ($dept in @("IT","HR","Finance","Sales")) {
 
 **Screenshot — ADUC showing full OU tree:**
 
-![ADUC OU Tree](screenshots/Active Directory Users and Computers.png)
+![ADUC OU Tree](screenshots/Active_Directory_Users_and_Computers.png)
 
 ---
 
@@ -124,7 +124,7 @@ Set-GPRegistryValue -Name "IT-ScreenLock" `
 
 **Screenshot — GPMC showing both GPOs linked and enabled:**
 
-![Group Policy Objects](screenshots/Group policy objects.png)
+![Group Policy Objects](screenshots/Group_policy_objects.png)
 
 ---
 
