@@ -174,17 +174,6 @@ Move-ADObject -Identity "CN=Karen White,OU=Users,OU=Sales,DC=corp,DC=local" `
 
 ---
 
-## Screenshots
-
-| File | What it shows |
-|---|---|
-| `Active_Directory_Users_and_Computers.png` | Full OU tree with all 4 departments and sub-OUs |
-| `ADUsers.png` | PowerShell bulk user creation + Get-ADUser output confirming all 8 accounts |
-| `Group_policy_objects.png` | GPMC with Password-Policy and IT-ScreenLock linked and enabled |
-| `Unlocking_John.png` | jsmith lockout confirmed via Search-ADAccount, unlock executed, account cleared |
-
----
-
 ## Skills Demonstrated
 
 - Active Directory Domain Services (AD DS) deployment and configuration
