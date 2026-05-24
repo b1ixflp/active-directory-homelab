@@ -67,7 +67,7 @@ foreach ($dept in @("IT","HR","Finance","Sales")) {
 
 **Screenshot — ADUC showing full OU tree:**
 
-![ADUC OU Tree](screenshots/Active_Directory_Users_and_Computers.png)
+![ADUC OU Tree](screenshots/Active Directory Users and Computers.png)
 
 ---
 
