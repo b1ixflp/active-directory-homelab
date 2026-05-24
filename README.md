@@ -124,7 +124,7 @@ Set-GPRegistryValue -Name "IT-ScreenLock" `
 
 **Screenshot — GPMC showing both GPOs linked and enabled:**
 
-![Group Policy Objects](screenshots/Group_policy_objects.png)
+![Group Policy Objects](screenshots/Group policy objects.png)
 
 ---
 
